@@ -113,7 +113,7 @@
 		<dict>
 			<key>name</key>
 			<string>Keyword</string>
-			<key>scope</key>
+			<key>scope</key> 
 			<string>keyword - (source.c keyword.operator | source.c++ keyword.operator | source.objc keyword.operator | source.objc++ keyword.operator), keyword.operator.word</string>
 			<key>settings</key>
 			<dict>
